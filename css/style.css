@@ -1,3 +1,7 @@
+/********** forms **********/
+#hide{
+    opacity: 0;
+}
 /********** Template CSS **********/
 :root {
     --primary: #2124B1;
