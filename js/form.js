@@ -6,7 +6,7 @@ Form.addEventListener('submit',function (event) {
 
     var yourMessage = document.getElementById("message").value;
     var subject = document.getElementById("subject").value;
-    document.location.href = "mailto:chrisgreg23@googlemail.com?subject="
+    document.location.href = "mailto:vm072416@gmail.com?subject="
         + encodeURIComponent(subject)
         + "&body=" + encodeURIComponent(yourMessage);
     
